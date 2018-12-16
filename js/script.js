@@ -1,5 +1,5 @@
 'use strict';
-window.onload = function getJoke(){
+window.onload = function main(){
 var url = 'http://api.icndb.com/jokes/random';
 var button = document.getElementById('get-joke');
 
